@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denis Baran</h1>
-<h3 align="center">I'm 17 years old programmer/game developer from Lithuania</h3>
+<h3 align="center">I'm 17 years old programmer/game developer(not much skilled, but on path to get it) from Lithuania</h3>
 
 - 🔭 I’m currently working on [SimpleTicTacToe](https://github.com/ZanY3/SimpleTicTacToe)
 
