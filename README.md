@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denis Baran</h1>
 <h3 align="center">I'm 17 years old programmer/game developer from Lithuania</h3>
 
-- 🔭 I’m currently working on **[Deck of mind](https://github.com/ZanY3/Mind-Deck)**
+- 🔭 I’m currently working on Game jam game
 
 - 🌱 I’m currently learning **C#, Unity**
 
