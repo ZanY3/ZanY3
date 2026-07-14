@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Game jam game
 
-- 🌱 I’m currently learning **C#, Unity**
+- 🌱 I’m currently learning **C#, Unity, Programming base**
 
 - 🔴YouTube: [https://www.youtube.com/@zany1y](https://www.youtube.com/@zany1y)
 
